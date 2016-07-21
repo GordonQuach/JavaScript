@@ -25,7 +25,7 @@ document.write("Suddenly, you see Usain Bolt. He stops and says, 'Who wants to r
 
 // User chooses to interact with Bolt or not.
 
-var userAnswer = prompt("Do you want to race Usain Bolt on stage? Y/N");
+var userAnswer = prompt("Do you want to race Usain Bolt? Y/N");
 
 if (userAnswer === ("Y")) {
     document.write("You and Bolt start racing. It's neck and neck! You win by a shoelace! \n");
