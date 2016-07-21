@@ -1,4 +1,4 @@
-/* When combined with a HTML page, this JavaScript code enables users to race against Usain Bolt! */
+// When combined with a HTML page, this JavaScript code enables users to race against Usain Bolt! //
 
 // Check if the user is ready to play!
 
