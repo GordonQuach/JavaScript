@@ -1,3 +1,6 @@
+/* When combined with a HTML page, this JavaScript code enables users to 
+play the classic game of "Rock, Paper, Scissors!" */
+
 var userChoice = prompt("Do you choose rock, paper, or scissors?");
 
 var computerChoice = Math.random();
