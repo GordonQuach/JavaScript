@@ -24,7 +24,8 @@ var list = function (friends) {
     }
 };
 
-//  This takes a single argument, name. If the name matches any of the first names in friends, it should log that friend's contact information and return it. //
+/*  This takes a single argument, name. If the name matches any of the first names in friends, it 
+should log that friend's contact information and return it. */
 
 var search = function (name) {
     for (var key in friends) {
