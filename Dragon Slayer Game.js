@@ -14,7 +14,7 @@ var totalDamage = 0
 // We keep on running the game until the dragon is slayed. //
 while (slaying) {
     if (youHit) {
-        document.write("You hit the dragon.");
+        document.write("You hit the dragon.\t");
         // This special syntax allows us to add total and this round's damage together for the new value of totalDamage. //
         totalDamage += damageThisRound;
         if (totalDamage >= 4) {
